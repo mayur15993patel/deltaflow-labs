@@ -1,6 +1,6 @@
 <p align="center">
 
-&#x20; <img src="assets/deltaflow-logo.png" alt="DeltaFlow Labs" width="700">
+&#x20; <img src="assets/deltaflow-readme-logo.png" alt="DeltaFlow Labs" width="700">
 
 </p>
 
